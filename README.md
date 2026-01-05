@@ -110,5 +110,3 @@ Successfully implemented a **production-ready payroll anomaly detection engine**
 
 ---
 
-## License
-Internal / Educational Use Only
